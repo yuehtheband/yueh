@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "About Us"
 featured_image: '/images/logo/logo.jpg'
 description: "Who we are"
-priority: 2
+weight: 1
 type: page
 menu:
   main:
-    weight: 2
+    weight: 1
 ---
 {{< figure src="/images/band/band.jpg">}}
 

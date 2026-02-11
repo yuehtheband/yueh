@@ -40,8 +40,8 @@ favicon = ""
 description = "The last theme you'll ever need. Maybe."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
-recent_posts_number = 5
-showTaxonomies = true
+#recent_posts_number = 2
+#showTaxonomies = true
 #mainSections = ['music', 'tour']
 
 [params.ananke.social.follow]
@@ -74,3 +74,26 @@ profilelink = "https://open.spotify.com/artist/5UENHG8co9gezY6UiJG9Ay"
 [params.ananke.social.deezer]
 profilelink = "https://www.deezer.com/us/album/419695267"
 
+[params.ananke.social.networks.bandcamp]
+slug = "bandcamp"
+label = "Bandcamp"
+profile = "https://www.bandcamp.com/%s"
+icon = "bandcamp"
+
+[params.ananke.social.networks.soundcloud]
+slug = "soundcloud"
+label = "Soundcloud"
+profile = "https://www.soundcloud.com/%s"
+icon = "soundcloud"
+
+[params.ananke.social.networks.spotify]
+slug = "spotify"
+label = "Spotify"
+profile = "https://www.spotify.com/%s"
+icon = "spotify"
+
+[params.ananke.social.networks.deezer]
+slug = "deezer"
+label = "Deezer"
+profile = "https://www.deezer.com/%s"
+icon = "deezer"

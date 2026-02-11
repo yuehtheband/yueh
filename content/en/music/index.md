@@ -1,9 +1,11 @@
 ---
 title: "Music"
+weight: 2
+description: "Discography"
 featured_image: '/images/logo/logo.jpg'
 menu:
   main:
-    weight: 3
+    weight: 2
 type: page
 ---
 

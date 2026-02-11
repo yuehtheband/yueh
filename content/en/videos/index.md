@@ -1,5 +1,6 @@
 ---
 title: "Videos"
+weight: 4
 featured_image: '/images/logo/logo.jpg'
 type: page
 menu:

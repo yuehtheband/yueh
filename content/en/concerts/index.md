@@ -1,6 +1,7 @@
 ---
-title: "Tour"
-description: "Next Dates"
+title: "Concerts"
+weight: 3
+description: "Upcoming Concerts"
 featured_image: '/images/logo/logo.jpg'
 type: page
 menu:
