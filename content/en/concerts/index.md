@@ -1,6 +1,6 @@
 ---
 title: "Concerts"
-weight: 3
+weight: 4
 description: "Upcoming Concerts"
 featured_image: '/images/band/band_live1.jpg'
 type: page
@@ -15,11 +15,7 @@ menu:
 ![chose2](/images/concerts/lachose2.jpg)
 
 - 04/04/2026 : Le Hangar (Ivry-sur-Seine)
-
   
-  
-  
-    
 # Past Concerts
 - 11/2025 : La Chose Bar (Corbeil-Essonnes)
 ![chose1](/images/concerts/lachose1.jpg)
