@@ -4,6 +4,7 @@ theme = ["ananke"]
 #resourceDir = "../resources"
 cleanDestinationDir = true
 defaultContentLanguage = 'en'
+canonifyURLs = true
 
 googleAnalytics = ""
 enableRobotsTXT = true
