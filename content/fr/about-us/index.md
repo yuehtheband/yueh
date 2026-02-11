@@ -1,0 +1,17 @@
+---
+title: "Bio"
+featured_image: '/images/logo/logo.jpg'
+description: "Who we are"
+weight: 1
+type: page
+menu:
+  main:
+    weight: 1
+---
+{{< figure src="/images/band/band.jpg">}}
+
+YuëH ?  
+Ça va vite. Ça tape fort.  
+SchrodingerMusclorPop urgent, à fleur de peau.  
+Trio post-hardcore noisy élevé au punk, au post-punk et au garage.  
+Un album sur le feu : Sasquatch, bientôt en vinyle.  

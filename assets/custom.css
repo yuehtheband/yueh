@@ -1,0 +1,6 @@
+.image-small {
+  display: block;
+  max-width: 100%;       /* responsive */
+  height: auto;
+}
+

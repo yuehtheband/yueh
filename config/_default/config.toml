@@ -23,10 +23,10 @@ enableRobotsTXT = true
     title = "YuëH"
     weight = 1
     contentDir = "content/en"
-  [languages.fr]
-    title = "YuëH Fr"
-    weight = 2
-    contentDir = "content/fr"
+#  [languages.fr]
+#    title = "YuëH Fr"
+#    weight = 2
+#    contentDir = "content/fr"
 
 [sitemap]
 changefreq = "monthly"
@@ -44,6 +44,8 @@ background_color_class = "bg-black"
 #recent_posts_number = 2
 #showTaxonomies = true
 #mainSections = ['music', 'tour']
+custom_css = ["custom.css"]
+
 
 [params.ananke.social.follow]
 new_window_icon = false

@@ -1,0 +1,31 @@
+{{/*
+image-small.html - unified images with padding (extend instead of crop)
+Usage:
+{{< image-small src="myimage.jpg" alt="Alt Text" width="400" height="300" class="optional-css" >}}
+*/}}
+
+{{ $src := .Get "src" | default "" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $class := .Get "class" | default "image-small" }}
+{{ $width := .Get "width" | default "400" }}
+{{ $height := .Get "height" | default "300" }}
+
+{{ $img := .Page.Resources.GetMatch $src }}
+{{ $resized := "" }}
+
+{{ if $img }}
+  {{ $resized = $img.Resize (printf "%sx%s" $width "x") }} <!-- resize width, height auto -->
+  <div style="width: {{ $width }}px; height: {{ $height }}px; display:flex; align-items:center; justify-content:center; background:#f8f8f8;">
+    <img src="{{ $resized.RelPermalink }}"
+         style="max-width: 100%; max-height: 100%; object-fit: contain;"
+         alt="{{ $alt }}"
+         class="{{ $class }}">
+  </div>
+{{ else }}
+  <div style="width: {{ $width }}px; height: {{ $height }}px; display:flex; align-items:center; justify-content:center; background:#f8f8f8;">
+    <img src="/{{ $src }}"
+         style="max-width: 100%; max-height: 100%; object-fit: contain;"
+         alt="{{ $alt }}"
+         class="{{ $class }}">
+  </div>
+{{ end }}
