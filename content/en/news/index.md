@@ -2,6 +2,7 @@
 title: "News"
 weight: 2
 featured_image: '/images/logo/logo.jpg'
+description: ""
 type: page
 menu:
   main:
