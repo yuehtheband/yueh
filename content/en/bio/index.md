@@ -2,6 +2,7 @@
 title: "Bio"
 featured_image: '/images/logo/logo.jpg'
 #description: "Who we are"
+showOnHome: true
 weight: 1
 type: page
 menu:

@@ -1,12 +1,12 @@
 ---
 title: "Videos"
-weight: 4
+weight: 6
 featured_image: '/images/logo/logo.jpg'
 description: ""
 type: page
 menu:
   main:
-    weight: 4
+    weight: 6
 ---
 
 **Sniper @ La Chose Bar** (2025) :

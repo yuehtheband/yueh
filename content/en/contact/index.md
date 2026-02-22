@@ -5,7 +5,7 @@ featured_image: '/images/logo/logo.jpg'
 type: page
 menu:
   main:
-    weight: 6
+    weight: 7
 ---
 
 
