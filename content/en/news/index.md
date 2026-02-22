@@ -9,7 +9,7 @@ menu:
     weight: 2
 ---
 
-# New Album Available Soon
+# New Album Available Soon:
 
 <span style="color:red;">Our first album is coming soon !!! </span>  
 **YuëH LP** (2026)

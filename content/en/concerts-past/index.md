@@ -10,6 +10,8 @@ menu:
     weight: 5
 ---
 
+# Past Concerts:
+
 - 11/2025 : La Chose Bar (Corbeil-Essonnes)
 ![chose1](/images/concerts/lachose1.jpg)
 

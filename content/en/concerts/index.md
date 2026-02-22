@@ -10,7 +10,7 @@ menu:
     weight: 4
 ---
 
-# Upcoming Concerts
+# Upcoming Concerts:
 
 - 21/03/2026 : La Chose Bar (Corbeil-Essonnes)
 ![chose2](/images/concerts/lachose2.jpg)
