@@ -4,7 +4,7 @@ weight: 5
 #description: "Upcoming Concerts"
 featured_image: '/images/band/band_live1.jpg'
 type: page
-#draft: true
+draft: true
 menu:
   main:
     weight: 5
