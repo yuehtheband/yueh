@@ -74,7 +74,7 @@ profilelink = "https://soundcloud.com/user-46427240-392550333"
 profilelink = "https://open.spotify.com/artist/5UENHG8co9gezY6UiJG9Ay"
 
 [params.ananke.social.deezer]
-profilelink = "https://www.deezer.com/us/album/419695267"
+profilelink = "https://www.deezer.com/fr/artist/379599431"
 
 [params.ananke.social.networks.bandcamp]
 slug = "bandcamp"
