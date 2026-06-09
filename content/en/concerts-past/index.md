@@ -4,7 +4,7 @@ weight: 5
 #description: "Upcoming Concerts"
 featured_image: '/images/band/band_live1.jpg'
 type: page
-draft: true
+#draft: true
 menu:
   main:
     weight: 5
@@ -21,7 +21,7 @@ menu:
 - 04/04/2026 : Le Hangar (Ivry-sur-Seine)
 ![hangar](/images/concerts/hangar.jpg)
 
-- 20/06/2026 : La Chose Bar (Corbeil-Essonnes)
+- 21/03/2026 : La Chose Bar (Corbeil-Essonnes)
 ![chose2](/images/concerts/lachose2.jpg)
 
 - 11/2025 : La Chose Bar (Corbeil-Essonnes)
