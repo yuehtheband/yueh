@@ -12,6 +12,18 @@ menu:
 
 # Past Concerts:
 
+- 07/06/2026 : Le Zorba (Paris)
+![zorba2](/images/concerts/zorba2.jpg)
+
+- 06/06/2026 : Le Truskel (Paris)
+![truskel](/images/concerts/truskel.jpg)
+
+- 04/04/2026 : Le Hangar (Ivry-sur-Seine)
+![hangar](/images/concerts/hangar.jpg)
+
+- 20/06/2026 : La Chose Bar (Corbeil-Essonnes)
+![chose2](/images/concerts/lachose2.jpg)
+
 - 11/2025 : La Chose Bar (Corbeil-Essonnes)
 ![chose1](/images/concerts/lachose1.jpg)
 

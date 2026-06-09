@@ -12,8 +12,8 @@ menu:
 
 # Upcoming Concerts:
 
-- 21/03/2026 : La Chose Bar (Corbeil-Essonnes)
-![chose2](/images/concerts/lachose2.jpg)
+- 20/06/2026 : Ivry en Fête (Ivry sur Seine)
+![ivry_en_fete](/images/concerts/ivry_en_fete.jpg)
+[Le programme](https://www.ivry94.fr/2113/ivry-en-fete-2026.htm#c9440)
 
-- 04/04/2026 : Le Hangar (Ivry-sur-Seine)
   
