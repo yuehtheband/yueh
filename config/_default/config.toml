@@ -22,10 +22,12 @@ enableRobotsTXT = true
     title = "YuëH"
     weight = 1
     contentDir = "content/en"
-#  [languages.fr]
-#    title = "YuëH Fr"
-#    weight = 2
-#    contentDir = "content/fr"
+    languageName = "English"
+  [languages.fr]
+    title = "YuëH"
+    weight = 2
+    contentDir = "content/fr"
+    languageName = "Français"
 
 [sitemap]
 changefreq = "monthly"

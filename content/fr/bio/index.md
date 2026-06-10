@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 featured_image: '/images/logo/logo.jpg'
-description: "Who we are"
+showOnHome: true
 weight: 1
 type: page
 menu:
@@ -12,6 +12,6 @@ menu:
 
 YuëH ?  
 Ça va vite. Ça tape fort.  
-SchrodingerMusclorPop urgent, à fleur de peau.  
+SchrodingerMusclorPop urgente, à fleur de peau.  
 Trio post-hardcore noisy élevé au punk, au post-punk et au garage.  
-Un album sur le feu : Sasquatch, bientôt en vinyle.  
+Un album en préparation : Sasquatch, bientôt en vinyle.  

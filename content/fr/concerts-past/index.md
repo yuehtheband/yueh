@@ -1,16 +1,14 @@
 ---
-title: "Past Concerts"
+title: "Concerts Passés"
 weight: 5
-#description: "Upcoming Concerts"
 featured_image: '/images/band/band_live1.jpg'
 type: page
-#draft: true
 menu:
   main:
     weight: 5
 ---
 
-# Past Concerts:
+# Concerts passés :
 
 - 07/06/2026 : Le Zorba (Paris)
 ![zorba2](/images/concerts/zorba2.jpg)
@@ -42,7 +40,7 @@ menu:
 - 06/2023 : Supersonic (Paris)
 ![supersonic](/images/concerts/supersonic.jpg)
 
-- 03/2023 : Mains D'Oeuvres (Saint Ouen)
+- 03/2023 : Mains D'Oeuvres (Saint-Ouen)
 ![mains_oeuvres](/images/concerts/mains_oeuvres.jpg)
 
 - 04/2022 : Gambetta Club (Paris)
