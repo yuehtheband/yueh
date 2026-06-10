@@ -1,5 +1,5 @@
 ---
-title: "Concerts"
+title: "Shows"
 weight: 4
 showOnHome: true
 #description: "Upcoming Concerts"
@@ -10,7 +10,7 @@ menu:
     weight: 4
 ---
 
-# Upcoming Concerts:
+# Upcoming Shows:
 
 - 20/06/2026 : Ivry en Fête (Ivry sur Seine)
 ![ivry_en_fete](/images/concerts/ivry_en_fete.jpg)

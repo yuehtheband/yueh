@@ -1,5 +1,5 @@
 ---
-title: "Concerts Passés"
+title: "Archives"
 weight: 5
 featured_image: '/images/band/band_live1.jpg'
 type: page
@@ -8,7 +8,7 @@ menu:
     weight: 5
 ---
 
-# Concerts passés :
+# Archives :
 
 - 07/06/2026 : Le Zorba (Paris)
 ![zorba2](/images/concerts/zorba2.jpg)

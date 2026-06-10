@@ -1,5 +1,5 @@
 ---
-title: "Past Concerts"
+title: "Past Shows"
 weight: 5
 #description: "Upcoming Concerts"
 featured_image: '/images/band/band_live1.jpg'
@@ -10,7 +10,7 @@ menu:
     weight: 5
 ---
 
-# Past Concerts:
+# Past Shows:
 
 - 07/06/2026 : Le Zorba (Paris)
 ![zorba2](/images/concerts/zorba2.jpg)

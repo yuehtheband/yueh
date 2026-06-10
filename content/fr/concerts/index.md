@@ -1,5 +1,5 @@
 ---
-title: "Concerts"
+title: "Dates"
 weight: 4
 showOnHome: true
 featured_image: '/images/band/band_live1.jpg'
@@ -9,7 +9,7 @@ menu:
     weight: 4
 ---
 
-# Prochains concerts :
+# Prochaines dates :
 
 - 20/06/2026 : Ivry en Fête (Ivry-sur-Seine)
 ![ivry_en_fete](/images/concerts/ivry_en_fete.jpg)
