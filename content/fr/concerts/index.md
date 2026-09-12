@@ -11,3 +11,4 @@ menu:
 
 # Prochaines dates :
 
+- 30/11/2026 : L'Attribut (Ris Orangis)
