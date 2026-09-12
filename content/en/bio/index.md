@@ -15,4 +15,4 @@ YuëH ?
 It's fast. It hits hard.  
 SchrodingerMusclorPop - urgent, raw, on edge.  
 A noisy post-hardcore trio raised on punk, post-punk and garage.  
-An album in the pipe : Sasquatch, coming soon on vinyl.  
+An album just released in September 2026: YUËH, available on vinyl.  
