@@ -8,8 +8,9 @@ menu:
     weight: 2
 ---
 
-# Nouvel album disponible :
+# Nouvel album disponible en Septembre 2026 :
 
 <span style="color:red;">Notre premier album est disponible !!!</span>  
 **YUËH LP** (2026)
 ![Alt text](/images/cover/sasquatch.jpg)
+[Écouter sur Bandcamp](https://yuehtheband.bandcamp.com/album/yu-h)
