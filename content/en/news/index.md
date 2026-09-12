@@ -11,6 +11,6 @@ menu:
 
 # New Album Available Soon:
 
-<span style="color:red;">Our first album is coming soon !!! </span>  
-**YuëH LP** (2026)
+<span style="color:red;">Our first album is available !!! </span>  
+**YUËH LP** (2026)
 ![Alt text](/images/cover/sasquatch.jpg)

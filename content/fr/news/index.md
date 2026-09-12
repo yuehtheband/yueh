@@ -8,8 +8,8 @@ menu:
     weight: 2
 ---
 
-# Nouvel album bientôt disponible :
+# Nouvel album disponible :
 
-<span style="color:red;">Notre premier album arrive bientôt !!!</span>  
-**YuëH LP** (2026)
+<span style="color:red;">Notre premier album est disponible !!!</span>  
+**YUËH LP** (2026)
 ![Alt text](/images/cover/sasquatch.jpg)

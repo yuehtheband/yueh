@@ -12,6 +12,9 @@ menu:
 
 # Past Shows:
 
+- 20/06/2026 : Ivry en Fête (Ivry sur Seine)
+![ivry_en_fete](/images/concerts/ivry_en_fete.jpg)
+
 - 07/06/2026 : Le Zorba (Paris)
 ![zorba2](/images/concerts/zorba2.jpg)
 

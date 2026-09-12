@@ -11,6 +11,10 @@ type: page
 
 # Discography:
 
+**YUËH LP** (2026) : [Listen on Bandcamp](https://yuehtheband.bandcamp.com/album/yu-h)
+[![Album cover](/images/cover/sasquatch.jpg)](https://yuehtheband.bandcamp.com/album/yu-h)
+
+
 **Poisoned EP** (2023) : [Listen on Bandcamp](https://yuehtheband.bandcamp.com/album/poisoned)
 [![Album cover](/images/cover/poisoned.jpg)](https://yuehtheband.bandcamp.com/album/poisoned)
 
