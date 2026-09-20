@@ -13,5 +13,5 @@ menu:
 YuëH ?  
 Ça va vite. Ça tape fort.  
 SchrodingerMusclorPop urgente, à fleur de peau.  
-Trio post-hardcore noisy élevé au punk, au post-punk et au garage.  
-Un album sorti en Septembre 2026 : YUËH, disponible en vinyle.  
+Trio post-hardcore noisy formé en 2021 à Paris et élevé au punk, au post-punk et au garage.  
+Deux EPs et un album sorti en Septembre 2026 : YUËH, disponible en vinyle et bientôt sur les plateformes.  

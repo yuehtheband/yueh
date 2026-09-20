@@ -14,5 +14,5 @@ menu:
 YuëH ?  
 It's fast. It hits hard.  
 SchrodingerMusclorPop - urgent, raw, on edge.  
-A noisy post-hardcore trio raised on punk, post-punk and garage.  
-An album just released in September 2026: YUËH, available on vinyl.  
+A noisy post-hardcore trio formed in 2021 in Paris and raised on punk, post-punk and garage.  
+Two EPs and an album released in September 2026: YUËH, available on vinyl and soon on platfoms.  
