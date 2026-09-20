@@ -13,5 +13,4 @@ menu:
 
 <span style="color:red;">Our first album is available !!! </span>  
 **YUËH LP** (2026)
-![Alt text](/images/cover/sasquatch.jpg)
-[Listen on Bandcamp](https://yuehtheband.bandcamp.com/album/yu-h)
+[![Album cover](/images/cover/sasquatch.jpg)](https://yuehtheband.bandcamp.com/album/yu-h)

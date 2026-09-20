@@ -11,4 +11,6 @@ menu:
 
 # Prochaines dates :
 
-- 30/11/2026 : L'Attribut (Ris Orangis)
+- 30/10/2026 : L'Attribut (Ris Orangis)
+  
+- 20/11/2026 : La Bicyclette (Montreuil)

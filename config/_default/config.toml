@@ -43,7 +43,6 @@ description = "The last theme you'll ever need. Maybe."
 background_color_class = "bg-black"
 custom_css = ["custom.css"]
 #homePages = ["bio", "news", "music", "concerts"]
-#mainSections = ["bio","news"]
 paginate = 5
 
 
@@ -51,13 +50,11 @@ paginate = 5
 [params.ananke.social.follow]
 new_window_icon = false
 networks = [
-  "instagram",
-  "facebook",
-  "youtube",
   "bandcamp",
-  "soundcloud",
   "spotify",
-  "deezer"
+  "deezer",
+  "instagram",
+  "facebook"
 ]
 
 [params.ananke.social.instagram]
